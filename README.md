@@ -318,7 +318,7 @@ Expand music and news partnerships with local Ethiopian content providers.
 We welcome contributions from the community!  
 - **How to Contribute:**  
  - You can invest on chereka starting form 5,000 ETB - 100,000 ETB.
- - To invest you can contact [TChereka co](https://t.me/chereka_co_bot)
+ - To invest you can contact [Chereka co](https://t.me/chereka_co_bot)
 - **Bug Reports & Feature Requests:** Use GitHub Issues to report bugs or request new features.  
 
 ---
