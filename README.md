@@ -326,10 +326,10 @@ We welcome contributions from the community!
 ## 📞 Contact Information
 
 - **Email:** contact@chereka.et  
-- **Website:** [https://chereka.et](https://chereka.et)  
-- **GitHub:** [https://github.com/Kayon Assefa](https://github.com/ckayon-assefa)  
-- **Twitter:** [https://twitter.com](https://twitter.com/kayonassefaduki)  
-- **LinkedIn:** [https://linkedin.com/company/chereka-ai](https://linkedin.com/in/kayonassefa)
+- **Website:** [Website](https://chereka.et)  
+- **GitHub:** [Github](https://github.com/ckayon-assefa)  
+- **Twitter:** [twitter](https://twitter.com/kayonassefaduki)  
+- **LinkedIn:** [linkedin](https://linkedin.com/in/kayonassefa)
 
 ---
 
