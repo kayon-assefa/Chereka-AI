@@ -119,8 +119,6 @@ By 2026, Chereka aims to:
 
 ---
 
-## 🌐 API Integration Guides
-
 ## 🌐 API Integration Guides — Providers & Importance
 
 - **Chat AI API**  
